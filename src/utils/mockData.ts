@@ -5,7 +5,7 @@ import { SalesRep, Quote } from "../types";
 export const initialSalesReps: SalesRep[] = [
   { 
     id: "1", 
-    name: "Alex Johnson", 
+    name: "Bohdan Hoschar", 
     avatar: "AJ", 
     weeklyGoal: 50000, 
     currentSales: 27500, 
@@ -13,7 +13,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "2", 
-    name: "Morgan Smith", 
+    name: "Tomáš Březina", 
     avatar: "MS", 
     weeklyGoal: 40000, 
     currentSales: 30000, 
@@ -21,7 +21,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "3", 
-    name: "Taylor Rodriguez", 
+    name: "Jonáš Zaheda", 
     avatar: "TR", 
     weeklyGoal: 45000, 
     currentSales: 15750, 
@@ -29,7 +29,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "4", 
-    name: "Jordan Lee", 
+    name: "Ineja Radzivilova", 
     avatar: "JL", 
     weeklyGoal: 55000, 
     currentSales: 55000, 
@@ -37,7 +37,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "5", 
-    name: "Casey Martinez", 
+    name: "Vojtěch Zicháček", 
     avatar: "CM", 
     weeklyGoal: 48000, 
     currentSales: 12000, 
@@ -45,7 +45,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "6", 
-    name: "Riley Thompson", 
+    name: "Jan Mokoš", 
     avatar: "RT", 
     weeklyGoal: 42000, 
     currentSales: 38000, 
@@ -53,7 +53,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "7", 
-    name: "Dakota Wilson", 
+    name: "Marek Šálek", 
     avatar: "DW", 
     weeklyGoal: 60000, 
     currentSales: 42000, 
@@ -61,7 +61,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "8", 
-    name: "Avery Thomas", 
+    name: "Barbora Sládková", 
     avatar: "AT", 
     weeklyGoal: 52000, 
     currentSales: 26000, 
@@ -69,7 +69,7 @@ export const initialSalesReps: SalesRep[] = [
   },
   { 
     id: "9", 
-    name: "Quinn Parker", 
+    name: "Ihor Feskov", 
     avatar: "QP", 
     weeklyGoal: 47000, 
     currentSales: 11750, 
