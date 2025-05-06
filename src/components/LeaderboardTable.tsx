@@ -50,7 +50,7 @@ const LeaderboardTable: React.FC<LeaderboardTableProps> = ({ salesReps, onSelect
             return (
               <TableRow 
                 key={rep.id}
-                className={`${percentage >= 100 ? 'bg-green-50' : ''}`}
+                className={`CZK{percentage >= 100 ? 'bg-green-50' : ''}`}
               >
                 <TableCell className="font-medium">
                   <div className="flex items-center">
