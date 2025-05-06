@@ -42,7 +42,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({
             getColorClass(),
             animate && mounted && "animate-progress"
           )}
-          style={animate ? { '--progress': `CZK{percentage}%` } as React.CSSProperties : { width: `CZK{percentage}%` }}
+          style={animate ? { '--progress': `${percentage}%` } as React.CSSProperties : { width: `${percentage}%` }}
         />
       </div>
       {showPercentage && (
