@@ -23,7 +23,7 @@ const SalesRepCard: React.FC<SalesRepCardProps> = ({ salesRep, onSelect }) => {
       {isGoalAchieved && <Celebration isActive={isGoalAchieved} />}
       <CardHeader className="p-4 pb-0">
         <div className="flex items-center space-x-4">
-          <Avatar className={`${isGoalAchieved ? 'border-2 border-green-500' : ''} bg-primary text-white`}>
+          <Avatar className={`CZK{isGoalAchieved ? 'border-2 border-green-500' : ''} bg-primary text-white`}>
             <div>{avatar}</div>
           </Avatar>
           <div className="flex-1 overflow-hidden">
