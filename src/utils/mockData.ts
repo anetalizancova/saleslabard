@@ -6,7 +6,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "1", 
     name: "Bohdan Hoschar", 
-    avatar: "AJ", 
+    avatar: "BH", 
     weeklyGoal: 50000, 
     currentSales: 27500, 
     lastUpdated: new Date().toISOString() 
@@ -14,7 +14,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "2", 
     name: "Tomáš Březina", 
-    avatar: "MS", 
+    avatar: "TB", 
     weeklyGoal: 40000, 
     currentSales: 30000, 
     lastUpdated: new Date().toISOString() 
@@ -22,7 +22,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "3", 
     name: "Jonáš Zaheda", 
-    avatar: "TR", 
+    avatar: "JZ", 
     weeklyGoal: 45000, 
     currentSales: 15750, 
     lastUpdated: new Date().toISOString() 
@@ -30,7 +30,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "4", 
     name: "Ineja Radzivilova", 
-    avatar: "JL", 
+    avatar: "IR", 
     weeklyGoal: 55000, 
     currentSales: 55000, 
     lastUpdated: new Date().toISOString() 
@@ -38,7 +38,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "5", 
     name: "Vojtěch Zicháček", 
-    avatar: "CM", 
+    avatar: "VZ", 
     weeklyGoal: 48000, 
     currentSales: 12000, 
     lastUpdated: new Date().toISOString() 
@@ -46,7 +46,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "6", 
     name: "Jan Mokoš", 
-    avatar: "RT", 
+    avatar: "JM", 
     weeklyGoal: 42000, 
     currentSales: 38000, 
     lastUpdated: new Date().toISOString() 
@@ -54,7 +54,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "7", 
     name: "Marek Šálek", 
-    avatar: "DW", 
+    avatar: "MŠ", 
     weeklyGoal: 60000, 
     currentSales: 42000, 
     lastUpdated: new Date().toISOString() 
@@ -62,7 +62,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "8", 
     name: "Barbora Sládková", 
-    avatar: "AT", 
+    avatar: "BS", 
     weeklyGoal: 52000, 
     currentSales: 26000, 
     lastUpdated: new Date().toISOString() 
@@ -70,7 +70,7 @@ export const initialSalesReps: SalesRep[] = [
   { 
     id: "9", 
     name: "Ihor Feskov", 
-    avatar: "QP", 
+    avatar: "IF", 
     weeklyGoal: 47000, 
     currentSales: 11750, 
     lastUpdated: new Date().toISOString() 
