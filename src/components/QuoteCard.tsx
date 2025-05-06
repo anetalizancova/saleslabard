@@ -26,7 +26,7 @@ const QuoteCard: React.FC<QuoteCardProps> = ({ progressPercentage }) => {
   return (
     <div 
       className={`quote-card transition-opacity duration-300 ease-in-out
-                 CZK{fadeIn ? 'opacity-100' : 'opacity-0'}`}
+                 ${fadeIn ? 'opacity-100' : 'opacity-0'}`}
     >
       <div className="flex items-start gap-2">
         <Sparkles className="h-5 w-5 text-secondary mt-1 flex-shrink-0" />
